@@ -21,7 +21,6 @@ namespace ScrollWindow
             this.AutoScrollMinSize = new Size(300, 251);
             Size t = this.ClientSize;
             //3
-            //4
         }
 
         private void Form2_Paint(object sender, PaintEventArgs e)
