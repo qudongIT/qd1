@@ -22,6 +22,7 @@ namespace ScrollWindow
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             //1
+            //2
         }
 
         private void button1_Click(object sender, EventArgs e)
