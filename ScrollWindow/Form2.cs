@@ -20,6 +20,7 @@ namespace ScrollWindow
             //当工作区小于300×250像素时显示滚动条
             this.AutoScrollMinSize = new Size(300, 251);
             Size t = this.ClientSize;
+            //3
         }
 
         private void Form2_Paint(object sender, PaintEventArgs e)
